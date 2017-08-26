@@ -1,0 +1,7 @@
+*.xlsx
+*.pdf
+*.docx
+*.pyc
+.DS_Store
+venv
+.git
