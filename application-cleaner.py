@@ -32,7 +32,6 @@ for val in vals[1:]:
         continue
 
     string = ''
-    f = open('out.txt', 'a')
     for i in range(num_relevant_cols):
         # a is corresponding header tag
         a = vals[0][i]
